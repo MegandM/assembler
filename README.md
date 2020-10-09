@@ -15,7 +15,7 @@ pip install -r requirements.txt
 # Run
 Check `main.py` usage by executing:
 ```bash
-python main.py -h
+$ python main.py -h
 usage: main.py [-h] -i FILENAME [--verbose]
 
 Convert file in assembly language into machine language
