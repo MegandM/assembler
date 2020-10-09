@@ -1,7 +1,6 @@
 # -*- coding: UTF-8 -*-
 #!/usr/bin/python3
 
-import methods
 import logging
 import os
 import argparse
