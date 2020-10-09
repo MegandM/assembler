@@ -13,7 +13,20 @@ pip install -r requirements.txt
 ```
 
 # Run
+Check `main.py` usage by executing:
 ```bash
-python main.py
+python main.py -h
+usage: main.py [-h] -i FILENAME [--verbose]
+
+Convert file in assembly language into machine language
+
+optional arguments:
+  -h, --help            show this help message and exit
+  --verbose, -v
+
+required arguments:
+  -i FILENAME, --input FILENAME
+                        File in assembly language to be converted
 ```
+
 
